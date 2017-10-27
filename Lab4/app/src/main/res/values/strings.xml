@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="shop_list">购物车</string>
+    <string name="price">价格</string>
+    <string name="remove_item">移除商品</string>
+    <string name="if_remove">从购物车移除</string>
+    <string name="click_cancel">您点击了取消</string>
+    <string name="commit">确定</string>
+    <string name="cancel">取消</string>
+    <string name="click_commit">已经删除您选中的商品</string>
+    <string name="if_remove_main">是否要移除</string>
+    <string name="more_item_info">更多产品信息</string>
+    <string name="oneclick_order">一键下单</string>
+    <string name="share_item">分享产品</string>
+    <string name="has_no_interest">不感兴趣</string>
+    <string name="find_more_items">查看更多商品促销信息</string>
+    <string name="addto_shoplist">商品已添加到购物车</string>
+    <string name="remove_info">该商品已经从商品列表中移除，再看看其他吧~</string>
+    <string name="num">数量</string>
+    <string name="notification_title_STATICATION">新商品热卖</string>
+    <string name="notification_title_DYNAMIC">新商品热卖</string>
+    <string name="have_a_news">您有一条新消息</string>
+</resources>
